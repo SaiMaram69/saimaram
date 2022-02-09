@@ -2,8 +2,7 @@
 
 <html>
   sai maram
-  ![Test Image 1](C:\Users\maram\Downloads\banner (6).png)
-
+ ![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/banner (6).png)
 
   ## 🚀 About Me <br>
 

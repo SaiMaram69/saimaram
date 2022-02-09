@@ -2,7 +2,8 @@
 
 <html>
   sai maram
-  [![MasterHead]("C:\Users\maram\Downloads\banner (6).png")](your GitHub link)
+  <img align="right" alt="Coding" width="400" src=""C:\Users\maram\Downloads\banner (6).png"">
+
   ## 🚀 About Me <br>
 
 🎓 I am Sai Kumar Reddy Maram, currently pursuing my bachelor's degree majoring in computer science specialisation in [cloud technology & mobile applications](https://set.jainuniversity.ac.in/academics/computer-science-engineering/btech-computer-technology) from [Jain University](https://www.jainuniversity.ac.in/)

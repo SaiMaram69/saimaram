@@ -2,7 +2,8 @@
 
 <html>
   sai maram
- ![Alt text]("C:\Users\maram\Downloads\banner (6).png" "Title")
+  ![Test Image 1](banner (6).png)
+
 
   ## 🚀 About Me <br>
 

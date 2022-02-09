@@ -2,7 +2,7 @@
 
 <html>
   sai maram
-  <img align="right" alt="Coding" width="400" src=""C:\Users\maram\Downloads\banner (6).png"">
+ ![Alt text]("C:\Users\maram\Downloads\banner (6).png" "Title")
 
   ## 🚀 About Me <br>
 

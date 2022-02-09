@@ -2,7 +2,7 @@
 
 <html>
   sai maram
-  ![Test Image 1](banner (6).png)
+  ![Test Image 1](C:\Users\maram\Downloads\banner (6).png)
 
 
   ## 🚀 About Me <br>

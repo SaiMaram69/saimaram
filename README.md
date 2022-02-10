@@ -4,9 +4,13 @@
   <h1>Hi!👋 there<br>I'm  Sai Maram</h1>
 
   ## 🚀 About Me <br>
-
-🎓 I am Sai Kumar Reddy Maram, currently pursuing my bachelor's degree majoring in computer science specialisation in [cloud technology & mobile applications](https://set.jainuniversity.ac.in/academics/computer-science-engineering/btech-computer-technology) from [Jain University](https://www.jainuniversity.ac.in/)
-<br>
+<ul>
+  <li>🕺🏻I'm  Sai Kumar Reddy Maram</li>
+<li>👨🏻‍🎓 I'm in my penultimate year of study as a student🎓 pursuing Software-Engineering </li>
+computer_mouse: The most recent project I did - [AI-Product-Manager-ND](https://github.com/gauriruhal/AI-Product-Manager-ND)
+ I’m currently contributing to my personal projects which will open-sourced soon. 
+Favourite word** : nodemon
+  </ul>
 ## ⚡ Technologies and Tools <br>
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

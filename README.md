@@ -4,10 +4,14 @@
 <html>
   <h2> ## 🚀 About Me </h2> <br>
 <ul>
-  <li>🕺🏻I'm  Sai Kumar Reddy Maram</li>
-<li>👨🏻‍🎓 I'm in my penultimate year of study as a student🎓 pursuing Software-Engineering in the specilization branch of Cloud Technology and Mobile Applications. </li>
-  <li>🏢I'm student at Jain Deemed to-be University. </li>
-  <li> 🖥️I’m currently working to build  my personal profile.</li>
+  <li> 🌱 I’m currently studying: Computer Science and Software Engineering.</li>
+  <li>🎯 I’m currently focusing on: Problem-Solving, ⭐️ star the projects if you like it 🤩.</li>
+  <li>🤔 I’m currently open for: A new job opportunity.</li>
+  <li>💬 Ask me about anything: Here.</li>
+<li>📫 How to reach me: Catch and follow me from the below links👇, in addition to follow me here.</li>
+  <li>😄 Fun fact: I love Bikes🏍️), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
+<li>👨‍💻 Hire me for Full Stack Development jobs: Link to my UpWork Full Stack Development Specialization.</li>
+
   </ul>
   <h2>## ⚡ Technologies and Tools </h2><br>
 

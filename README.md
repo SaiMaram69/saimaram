@@ -6,10 +6,9 @@
   ## 🚀 About Me <br>
 <ul>
   <li>🕺🏻I'm  Sai Kumar Reddy Maram</li>
-<li>👨🏻‍🎓 I'm in my penultimate year of study as a student🎓 pursuing Software-Engineering </li>
-computer_mouse: The most recent project I did - [AI-Product-Manager-ND](https://github.com/gauriruhal/AI-Product-Manager-ND)
- I’m currently contributing to my personal projects which will open-sourced soon. 
-Favourite word** : nodemon
+<li>👨🏻‍🎓 I'm in my penultimate year of study as a student🎓 pursuing Software-Engineering in the specilization branch of Cloud Technology And Mobile Applications. </li>
+  <li>🏢I'm student at Jain Deemed to-be University. </li>
+  <li> I’m currently working to build  my personal profile.</li>
   </ul>
 ## ⚡ Technologies and Tools <br>
 

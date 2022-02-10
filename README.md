@@ -10,7 +10,7 @@
   <li>🏢I'm student at Jain Deemed to-be University. </li>
   <li> 🖥️I’m currently working to build  my personal profile.</li>
   </ul>
-## ⚡ Technologies and Tools <br>
+  <h2>## ⚡ Technologies and Tools </h2><br>
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

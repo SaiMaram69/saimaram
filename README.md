@@ -1,5 +1,5 @@
 # saimaram
-  ![](https://c.tenor.com/v3Kzb5rlFdgAAAAi/mochi-cute.gif)
+  ![](https://c.tenor.com/cj9DCDCk-rAAAAAi/wikipedia-wiki.gif)
   
 <html>
   <h2> ## 🚀 About Me </h2> <br>

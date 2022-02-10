@@ -1,8 +1,7 @@
 # saimaram
 
 <html>
-  <img sorce="https://c.tenor.com/cj9DCDCk-rAAAAAi/wikipedia-wiki.gif"   alt="  <h1>Hi!👋 there<br>I'm  Sai Maram</h1>"  width=400%>
-  ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+  ![](https://c.tenor.com/cj9DCDCk-rAAAAAi/wikipedia-wiki.gif)
 
 
   ## 🚀 About Me <br>

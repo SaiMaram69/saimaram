@@ -1,8 +1,7 @@
 # saimaram
 
 <html>
-  sai maram
- ![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/C:\Users\maram\Downloads\banner(6).png)
+  <h1>Hi!👋 there<br>I'm  Sai Maram</h1>
 
   ## 🚀 About Me <br>
 

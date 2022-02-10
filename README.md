@@ -1,6 +1,7 @@
 # saimaram
 
 <html>
+  ![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
   <h1>Hi!👋 there<br>I'm  Sai Maram</h1>
 
   ## 🚀 About Me <br>

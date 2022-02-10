@@ -6,7 +6,7 @@
   ## 🚀 About Me <br>
 <ul>
   <li>🕺🏻I'm  Sai Kumar Reddy Maram</li>
-<li>👨🏻‍🎓 I'm in my penultimate year of study as a student🎓 pursuing Software-Engineering in the specilization branch of Cloud Technology And Mobile Applications. </li>
+<li>👨🏻‍🎓 I'm in my penultimate year of study as a student🎓 pursuing Software-Engineering in the specilization branch of Cloud Technology and Mobile Applications. </li>
   <li>🏢I'm student at Jain Deemed to-be University. </li>
   <li> 🖥️I’m currently working to build  my personal profile.</li>
   </ul>
@@ -23,7 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br/>
-  ## Get In Touch :<br>
+  <h2> ##🌏 Get In Touch :</h2><br>
   
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)

@@ -4,7 +4,7 @@
 <html>
   <h2> ## 🚀 About Me </h2> <br>
 <ul>
-  <li> 🌱 I’m currently studying: Computer Science and Software Engineering.</li>
+  <li> 🌱 I’m currently studying: Computer Science under Specilization of Cloud Technology and Mobile Applications.</li>
   <li>🎯 I’m currently focusing on: Problem-Solving, ⭐️ star the projects if you like it 🤩.</li>
   <li>🤔 I’m currently open for: A new job opportunity.</li>
   <li>💬 Ask me about anything: Here.</li>

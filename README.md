@@ -9,7 +9,7 @@
   <li>🤔 I’m currently open for: A new job opportunity.</li>
   <li>💬 Ask me about anything: Here.</li>
 <li>📫 How to reach me: Catch and follow me from the below links👇, in addition to follow me here.</li>
-  <li>😄 Fun fact: I love Bikes(🏍️), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
+  <li>😄 Fun fact: I love Bikes(🏍️), Codeing(💻), Traveling(🌍).</li>
 <li>👨‍💻 Hire me for Full Stack Development jobs: Link to my UpWork Full Stack Development Specialization.</li>
 
   </ul>
